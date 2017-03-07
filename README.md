@@ -1,0 +1,2 @@
+# Photoserver
+Photosharing server application
